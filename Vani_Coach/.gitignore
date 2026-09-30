@@ -1,1 +1,15 @@
-/target/
+# Maven
+target/
+
+# Test reports
+test-output/
+reports/
+allure-results/
+allure-report/
+
+# IDE
+.idea/
+*.iml
+
+# Logs
+*.log
